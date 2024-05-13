@@ -14,6 +14,7 @@ import kotlinx.android.synthetic.main.products_img_layout.*
 
 class DetailActivity : AppCompatActivity() {
 
+    //test
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
